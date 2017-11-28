@@ -1,0 +1,15 @@
+{
+  "name": "botframe",
+  "version": "1.0.0",
+  "description": "bot framework test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adit",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.12.0",
+    "restify": "^6.3.4"
+  }
+}
